@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="./CSS/index.css">
+</head>
+<body>
+    <header>
+        <h2 id="titulo-header">NewsFlash</h2>
+        <a href="./index.html"><img src="./IMG/botao-de-inicio.png" alt="Home"></a>
+    </header>
+
+    <div class="select">
+        <div class="categoria">
+            <div class="selection-button">
+                <div id="select-value">Selecione a Categoria</div>
+            </div>
+
+            <ul>
+                <li onclick="selecionarCategoria('science')">Ciência</li>
+                <li onclick="selecionarCategoria('entertainment')">Entretenimento</li>
+                <li onclick="selecionarCategoria('sports')">Esportes</li>
+                <li onclick="selecionarCategoria('general')">Geral</li>
+                <li onclick="selecionarCategoria('business')">Negócios</li>
+                <li onclick="selecionarCategoria('health')">Saúde</li>
+                <li onclick="selecionarCategoria('technology')">Tecnologia</li>                
+            </ul>
+        </div>
+    </div>
+
+    <script src="./JS/index.js"></script>
+</body>
+</html>
