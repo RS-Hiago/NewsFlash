@@ -2,7 +2,7 @@
 
 O NewsFlash é um site de notícias que utiliza a API NEWS para fornecer informações atualizadas em diversas categorias. Os usuários podem explorar as últimas notícias, escolher entre uma variedade de categorias, e ler artigos completos diretamente no site. A navegação intuitiva e o design responsivo tornam a experiência do usuário simples e agradável.
 
-## Funcionalidades Destacadas
+## Funcionalidades
 
 - **Seleção de Categoria**: Escolha entre categorias como negócios, entretenimento, esportes, saúde e mais para visualizar notícias específicas.
 
@@ -15,7 +15,7 @@ O NewsFlash é um site de notícias que utiliza a API NEWS para fornecer informa
 Para utilizar os dados ao vivo das notícias, siga os passos abaixo:
 
 1. **Registre-se no site da API NEWS:**
-   Acesse [API NEWS]([link_do_site](https://newsapi.org/)) e crie uma conta para obter sua chave de acesso.
+   Acesse [API NEWS](https://newsapi.org/) e crie uma conta para obter sua chave de acesso.
 
 2. **Obtenha sua Chave de Acesso:**
    Após o registro, obtenha sua chave de acesso no site da API NEWS.
@@ -33,6 +33,10 @@ Para utilizar os dados ao vivo das notícias, siga os passos abaixo:
 
 3. **Leitura Completa:**
    - Para informações mais detalhadas, clique em "Leia mais" e acesse o artigo completo, proporcionando uma experiência de leitura aprofundada sobre o assunto de seu interesse.
+  
+## Projeto Hospedado
+
+Pronto para se manter atualizado? Clique [aqui](https://rs-hiago.github.io/NewsFlash/) e descubra as últimas notícias no NewsFlash!
   
 ## Colaboradores
 
