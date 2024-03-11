@@ -32,7 +32,7 @@ switch(categoria){
 
 
 //Link da API e Chave (Add sua Chave API)
-const apiKey = '166229a09f554bc786544347bbb3042c';
+const apiKey = '5513ca05e62b4475b2ba1e98bf3cd8a4';
 const apiUrl = 'https://newsapi.org/v2/top-headlines?';
  
 //Aqui passamos os parametros (chave da API) (Categoria da noticia) (Pais)
